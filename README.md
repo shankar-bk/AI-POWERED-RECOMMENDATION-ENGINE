@@ -12,7 +12,7 @@
 
 "MENTOR": NEELA SANTOSH
 
-## 
+## I built an AI-powered recommendation engine using Python, pandas, and scikit-learn. The system suggests items like movies or products based on user preferences and item similarities. I used machine learning techniques such as content-based filtering to find and recommend similar items. The engine was turned into a RESTful API using Flask, with endpoints to get recommendations by item or user input. I tested the API to make sure it gives correct results. The backend is simple, fast, and ready to be used in any app needing smart recommendations.
 
 # OUTPUT:
 
